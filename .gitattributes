@@ -1,2 +1,4 @@
 $ cat .gitattributes
 *.rb linguist-language=Python
+* linguist-vendored
+*.js linguist-vendored=false
